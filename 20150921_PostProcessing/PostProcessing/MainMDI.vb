@@ -153,35 +153,13 @@ Public Class MainMDI
         Select Case System.Environment.UserName
             Case "6002317"
                 Me.UserConfigure.Text = "Developer"
-            Case "5805793"
-                Me.UserConfigure.Text = "양현모"
-            Case "6304537"
-                Me.UserConfigure.Text = "박홍익"
-            Case "9562745"
-                Me.UserConfigure.Text = "최성철"
-            Case "6005885"
-                Me.UserConfigure.Text = "한광철"
-            Case "5405228"
-                Me.UserConfigure.Text = "김시열"
-            Case "5502875"
-                Me.UserConfigure.Text = "서보필"
-            Case "6333467"
-                Me.UserConfigure.Text = "조현덕"
-            Case "5504584"
-                Me.UserConfigure.Text = "송은섭"
-            Case "9163467"
-                Me.UserConfigure.Text = "김원철"
-            Case "5300641"
-                Me.UserConfigure.Text = "조성수"
-            Case "6427553"
-                Me.UserConfigure.Text = "배지예"
             Case Else
                 Me.UserConfigure.Text = System.Environment.UserName
         End Select
 
         Me.UserDomainName.Text = System.Environment.UserDomainName
         Me.StatusStrip.Height = 35
-        Me.DeveloperLbl.Text = "장성훈 연구원" & vbCrLf & "T.0149"
+        Me.DeveloperLbl.Text = "장성훈" & vbCrLf & "T.0149"
         Me.DeveloperLbl.ForeColor = Color.Gray
 
         With Me
@@ -218,7 +196,7 @@ Public Class MainMDI
         End Try
 
         Select Case System.Environment.UserDomainName
-            Case "HKMC", "HOME-PC", "성훈미경-PC"
+            Case "HKMC", "HOME-PC"
             Case Else
                 File.Delete(Application.StartupPath & "\DATA\MADYMO_FE_Materials.xml")
                 SplashScreenStart.Close()
@@ -227,8 +205,6 @@ Public Class MainMDI
                 End
         End Select
 
-        '회사 : 6002317 / HKMC
-        '집 : 장성훈 / HOME-PC
 
         'Command Line Arguements Handling Methods
         'Dim s() As String = System.Environment.GetCommandLineArgs()
