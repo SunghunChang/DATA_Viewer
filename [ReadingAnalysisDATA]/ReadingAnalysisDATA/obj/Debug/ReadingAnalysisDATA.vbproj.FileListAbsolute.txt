@@ -1,0 +1,10 @@
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\bin\Debug\ReadingAnalysisDATA.dll
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\bin\Debug\ReadingAnalysisDATA.pdb
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\bin\Debug\ReadingAnalysisDATA.xml
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\ReadingAnalysisDATA.Resources.resources
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\ReadingAnalysisDATA.dll
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\ReadingAnalysisDATA.xml
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingAnalysisDATA\ReadingAnalysisDATA\obj\Debug\ReadingAnalysisDATA.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PostProcessing", "PostProcessing\PostProcessing.vbproj", "{0CC39584-4B98-417D-BCF0-DCBF5466783A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC39584-4B98-417D-BCF0-DCBF5466783A}.Debug|x86.ActiveCfg = Debug|x86
+		{0CC39584-4B98-417D-BCF0-DCBF5466783A}.Debug|x86.Build.0 = Debug|x86
+		{0CC39584-4B98-417D-BCF0-DCBF5466783A}.Release|x86.ActiveCfg = Release|x86
+		{0CC39584-4B98-417D-BCF0-DCBF5466783A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

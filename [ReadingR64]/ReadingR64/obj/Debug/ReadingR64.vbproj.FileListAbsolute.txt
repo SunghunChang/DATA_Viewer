@@ -1,0 +1,10 @@
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\bin\Debug\ReadingR64.dll
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\bin\Debug\ReadingR64.pdb
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\bin\Debug\ReadingR64.xml
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\ReadingR64.Resources.resources
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\ReadingR64.dll
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\ReadingR64.xml
+C:\Users\6002317\Desktop\01_VB_Projects_CSH\ReadingR64\ReadingR64\obj\Debug\ReadingR64.pdb

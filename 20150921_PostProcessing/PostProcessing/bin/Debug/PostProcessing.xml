@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PostProcessing
+</name>
+</assembly>
+<members>
+<member name="F:WindowsApplication1.GlobalVal.TempLicExpire">
+	<summary>
+ 임시로 원격 로그 기록 남기는 기능을 비활성화 함
+ True : 비활성화
+ False : 활성화
+ </summary>
+	<remarks></remarks>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  이 클래스에서 사용하는 캐시된 ResourceManager 인스턴스를 반환합니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  이 강력한 형식의 리소스 클래스를 사용하여 모든 리소스 조회에 대한 현재 스레드의 CurrentUICulture
+  속성을 재정의합니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.ANADlgChnHICCalc">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Cabin">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.CMD">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.CMD1">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.CommandPrompt">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.CSH">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.CurveCorrel">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.FacetDummy">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.FacetDummy1">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.FileCommentBrowser">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Graph">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.HyperView">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Integral">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Madymo">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Copy">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_CopyBmp">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Excel">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_exportData">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Filtering">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Math">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Option">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Menu_Partial_Differential">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Reload">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.setting_1">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.SetUpGeneral">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.T">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.THOR_NT">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.THOR_TEST_img">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Trash">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.XMADgic">
+	<summary>
+  System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  지역화된 문자열 등을 찾기 위한 강력한 형식의 리소스 클래스입니다.
+</summary>
+</member>
+</members>
+</doc>

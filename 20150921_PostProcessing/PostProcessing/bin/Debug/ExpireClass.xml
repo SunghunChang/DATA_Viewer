@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExpireClass
+</name>
+</assembly>
+<members>
+<member name="P:ExpireClass.ExpireCondition.ExpireDate">
+	<summary>
+ #9/15/2015#
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ExpireClass.ExpireCondition.IsExpire">
+	<summary>
+ 만료일 : 장성훈 '16.12.25 / 이외 '15.10.25
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ExpireClass.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ExpireClass.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ExpireClass.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
